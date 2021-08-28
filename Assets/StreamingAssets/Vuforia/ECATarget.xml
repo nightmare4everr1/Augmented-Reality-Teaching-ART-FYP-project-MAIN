@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="CircuitDiag4" size="10.000000 6.657420" />
+    <ImageTarget name="CircuitDiag3" size="10.000000 6.657420" />
+    <ImageTarget name="CircuitDiag2" size="5.000000 3.328710" />
+    <ImageTarget name="CircuitDiag" size="5.000000 3.328710" />
+  </Tracking>
+</QCARConfig>
